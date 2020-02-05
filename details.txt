@@ -1,0 +1,17 @@
+Your identification has been saved in /c/Users/Surya/.ssh/id_rsa.
+Your public key has been saved in /c/Users/Surya/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:SwI6inDTiOr4nNeNo4nZojNtmQ393KK6o2df7q9ikxQ its.devil.dev@gmail.com
+The key's randomart image is:
++---[RSA 2048]----+
+|                 |
+|                 |
+|    .            |
+| . +E.           |
+|o *.... S        |
+|+o.oo  o .       |
+|+. * =.+.        |
+|=.X=B+B o        |
+|+@OO**+=.        |
++----[SHA256]-----+
+
